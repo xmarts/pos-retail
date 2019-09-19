@@ -1,0 +1,3 @@
+[submodule "pos-retail"]
+	path = pos-retail
+	url = git@github.com:xmarts/pos-retail.git
